@@ -1,0 +1,19 @@
+18 4 (F R S E)
+Mesalina_adramitana 0100
+Mesalina_arnoldi 0100
+Mesalina_austroarabica 0100
+Mesalina_ayunensis 0100
+Mesalina_bahaeldini 0101
+Mesalina_balfouri 0100
+Mesalina_bernoullii 0101
+Mesalina_brevirostris 0100
+Mesalina_guttulata 1000
+Mesalina_kuri 0100
+Mesalina_martini 1000
+Mesalina_microlepis 0001
+Mesalina_olivieri 1000
+Mesalina_pasteuri 1000
+Mesalina_rubropunctata 1000
+Mesalina_saudiarabica 0100
+Mesalina_simoni 1000
+Mesalina_watsonana 0010

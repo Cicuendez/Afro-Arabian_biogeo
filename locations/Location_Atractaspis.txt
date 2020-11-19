@@ -1,0 +1,15 @@
+14 3 (F R E)
+Atractaspis_andersonii 010
+Atractaspis_aterrima 100
+Atractaspis_bibronii 100
+Atractaspis_boulengeri 100
+Atractaspis_congica 100
+Atractaspis_corpulenta 100
+Atractaspis_dahomeyensis 100
+Atractaspis_duerdeni 100
+Atractaspis_engaddensis 011
+Atractaspis_irregularis 100
+Atractaspis_microlepidota 100
+Atractaspis_micropholis 100
+Atractaspis_reticulata 100
+Atractaspis_watsoni 100

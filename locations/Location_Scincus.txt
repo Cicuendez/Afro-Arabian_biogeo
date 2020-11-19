@@ -1,0 +1,8 @@
+7 2 (F R)
+Eumeces_algeriensis 10
+Eumeces_schneideri 11
+Scincopus_fasciatus 10
+Scincus_albifasciatus 10
+Scincus_mitranus 01
+Scincus_scincus 10
+Scincus_conirostris 01

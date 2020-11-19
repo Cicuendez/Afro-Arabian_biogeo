@@ -1,0 +1,15 @@
+14 3 (F R S)
+Chamaeleo_africanus 100
+Chamaeleo_anchietae 100
+Chamaeleo_arabicus 010
+Chamaeleo_calcaricarens 100
+Chamaeleo_calyptratus 010
+Chamaeleo_chamaeleon 110
+Chamaeleo_dilepis 100
+Chamaeleo_gracilis 100
+Chamaeleo_laevigatus 100
+Chamaeleo_monachus 010
+Chamaeleo_namaquensis 100
+Chamaeleo_necasi 100
+Chamaeleo_senegalensis 100
+Chamaeleo_zeylanicus 001

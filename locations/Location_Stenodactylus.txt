@@ -1,0 +1,14 @@
+13 4 (F R S E)
+Stenodactylus_affinis 0110
+Stenodactylus_arabicus 0100
+Stenodactylus_doriae 0100
+Stenodactylus_grandiceps 0101
+Stenodactylus_leptocosymbotes 0100
+Stenodactylus_mauritanicus 1000
+Stenodactylus_petrii 1000
+Stenodactylus_pulcher 0100
+Stenodactylus_sharqiyahensis 0100
+Stenodactylus_slevini 0100
+Stenodactylus_stenurus 1000
+Stenodactylus_sthenodactylus 1000
+Stenodactylus_yemenensis 0100

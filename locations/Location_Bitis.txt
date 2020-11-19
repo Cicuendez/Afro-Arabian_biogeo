@@ -1,0 +1,15 @@
+14 2 (F R)
+Bitis_arietans 11
+Bitis_armata 10
+Bitis_atropos 10
+Bitis_caudalis 10
+Bitis_cornuta 10
+Bitis_gabonica 10
+Bitis_nasicornis 10
+Bitis_parviocula 10
+Bitis_peringueyi 10
+Bitis_rhinoceros 10
+Bitis_rubida 10
+Bitis_schneideri 10
+Bitis_worthingtoni 10
+Bitis_xeropaga 10

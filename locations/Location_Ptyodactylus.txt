@@ -1,0 +1,17 @@
+16 3 (F R E)
+Ptyodactylus_ananjevae 001
+Ptyodactylus_dhofarensis 010
+Ptyodactylus_guttatus 100
+Ptyodactylus_hasselquistii 100
+Ptyodactylus_orlovi 010
+Ptyodactylus_oudrii 100
+Ptyodactylus_puiseuxi 001
+Ptyodactylus_ragazzii 100
+Ptyodactylus_ruusaljibalicus 010
+Ptyodactylus_siphonorhina 100
+Ptyodactylus_sp1 010
+Ptyodactylus_sp2 010
+Ptyodactylus_sp3 010
+Ptyodactylus_sp4 010
+Ptyodactylus_sp5 010
+Ptyodactylus_togoensis 100

@@ -1,0 +1,11 @@
+10 4 (F R S E)
+Tropiocolotes_algericus 1000
+Tropiocolotes_bisharicus 1000
+Tropiocolotes_confusus 0100
+Tropiocolotes_nattereri 0101
+Tropiocolotes_naybandensis 0010
+Tropiocolotes_nubicus 1000
+Tropiocolotes_scorteccii 0100
+Tropiocolotes_somalicus 1000
+Tropiocolotes_steudneri 1000
+Tropiocolotes_tripolitanus 1000

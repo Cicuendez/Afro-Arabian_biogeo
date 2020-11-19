@@ -1,0 +1,24 @@
+23 3 (F R U)
+Chalcides_bedriagai 001
+Chalcides_boulengeri 100
+Chalcides_chalcides 100
+Chalcides_coeruleopunctatus 100
+Chalcides_colosii 100
+Chalcides_guentheri 100
+Chalcides_lanzai 100
+Chalcides_manueli 100
+Chalcides_mauritanicus 100
+Chalcides_mertensi 100
+Chalcides_minutus 100
+Chalcides_mionecton 100
+Chalcides_montanus 100
+Chalcides_ocellatus 110
+Chalcides_parallelus 100
+Chalcides_polylepis 100
+Chalcides_pseudostriatus 100
+Chalcides_sepsoides 100
+Chalcides_sexlineatus 100
+Chalcides_simonyi 100
+Chalcides_sphenopsiformis 100
+Chalcides_striatus 001
+Chalcides_viridanus 100

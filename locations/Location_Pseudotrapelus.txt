@@ -1,0 +1,22 @@
+21 3 (F R E)
+Acanthocercus_adramitanus 010
+Acanthocercus_annectans 100
+Acanthocercus_atricollis 100
+Acanthocercus_branchi 100
+Acanthocercus_cyanocephalus 100
+Acanthocercus_cyanogaster 100
+Acanthocercus_kiwuensis 100
+Acanthocercus_minutus 100
+Acanthocercus_ugandaensis 100
+Acanthocercus_yemensis 010
+Pseudotrapelus_aqabensis 010
+Pseudotrapelus_chlodnickii 100
+Pseudotrapelus_dhofarensis 010
+Pseudotrapelus_jensvindumi 010
+Pseudotrapelus_neumanni 010
+Pseudotrapelus_sinaitus 011
+Pseudotrapelus_sp 010
+Xenagama_batillifera 100
+Xenagama_taylori 100
+Xenagama_wilmsi 100
+Xenagama_zonura 100

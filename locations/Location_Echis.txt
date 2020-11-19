@@ -1,0 +1,10 @@
+9 3 (F R S)
+Echis_borkini 010
+Echis_carinatus 011
+Echis_coloratus 110
+Echis_jogeri 100
+Echis_khosatzkii 010
+Echis_leucogaster 100
+Echis_ocellatus 100
+Echis_omanensis 010
+Echis_pyramidum 100

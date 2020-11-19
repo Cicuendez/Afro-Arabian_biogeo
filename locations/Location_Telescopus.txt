@@ -1,0 +1,11 @@
+10 3 (F R E)
+Telescopus_beetzi 100
+Telescopus_dhara 010
+Telescopus_fallax 001
+Telescopus_hoogstraali 001
+Telescopus_nigriceps 001
+Telescopus_obtusus 100
+Telescopus_pulcher 100
+Telescopus_semiannulatus 100
+Telescopus_tripolitanus 100
+Telescopus_variegatus 100

@@ -1,0 +1,15 @@
+14 2 (F R)
+Uromastyx_acanthinura 100
+Uromastyx_aegyptia 110
+Uromastyx_alfredschmidti 100
+Uromastyx_benti 010
+Uromastyx_dispar 100
+Uromastyx_geyri 100
+Uromastyx_macfadyeni 100
+Uromastyx_nigriventris 100
+Uromastyx_ocellata 100
+Uromastyx_ornata 010
+Uromastyx_princeps 100
+Uromastyx_shobraki 010
+Uromastyx_thomasi 010
+Uromastyx_yemenensis 010
