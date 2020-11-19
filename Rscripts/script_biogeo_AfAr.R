@@ -5,7 +5,7 @@
 # It simulates biogeographic histories on those clades.
 # It gets information on the specific nodes where the ancestral reconstruction 
 # and the simulated biogeographic histories yielded different types of 
-# biogeographic events: dispersal, vicariance and range contraction, involvin 
+# biogeographic events: dispersal, vicariance and range contraction, involving 
 # specific areas (Africa and Arabia).
 
 
@@ -15,15 +15,12 @@ setwd()
 # PACKAGES ----
 library(dplyr)
 library(DescTools)
-#library(ips)
-#library(cowplot) #package 'cowplot' requires R >= 3.5.0
 library(ggplot2)
 library(ggtree)
 library(tidytree)
 library(treeio)
 library(phytools)
 library(geiger)
-#library(treeman)
 library(optimx)
 library(FD)       # for FD::maxent() (make sure this is up-to-date)
 library(snow)     # (if you want to use multicore functionality; some systems/R versions prefer library(parallel), try either)
