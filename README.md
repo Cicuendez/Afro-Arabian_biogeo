@@ -1,5 +1,5 @@
 # Afro-Arabian biogeography
-Here there are scripts and data for the project on the biogeography of Afro-Arabia squamates. 
+Here there are scripts and data for the project on the biogeography of Afro-Arabian squamates. 
 With Austin H. Patton, Luke J. Harmon, Daniel S. Caetano, Jiri Smid and Salvador Carranza.
 
 Folders: 
